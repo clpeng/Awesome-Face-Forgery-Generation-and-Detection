@@ -38,6 +38,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Towards open-set identity preserving face synthesis (*2018 CVPR*) [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_Towards_Open-Set_Identity_CVPR_2018_paper.pdf)]
 * FSGAN: Subject Agnostic Face Swapping and Reenactment (*2019 ICCV*) [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)]
 * FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping (*2019 arXiv*) [[Paper](https://arxiv.org/abs/1912.13457)]
+* Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.00813.pdf)]
 
 ### Face Manipulation
 
@@ -76,6 +77,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets (*2019 arXiv*) [[Paper](https://arxiv.org/abs/1911.08139)]
 * Unconstrained Facial Expression Transfer using Style-based Generator (*2019 arXiv*) [[Paper](https://arxiv.org/abs/1912.06253)]
 * ICface: Interpretable and Controllable Face Reenactment Using GANs (*2020 WACV*) [[Paper](https://arxiv.org/pdf/1904.01909.pdf)] [[Code](https://github.com/Blade6570/icface)]
+* Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.12957.pdf)]
 
 #### Cross-modality Manipulation
 * Synthesizing Obama: learning lip sync from audio (*2017 TOG*) [[Paper](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)] [[Code](https://github.com/supasorn/synthesizing_obama_network_training)]
@@ -100,6 +102,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * A Style-Based Generator Architecture for Generative Adversarial Networks (*2019 CVPR*) [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)] [[Code](https://github.com/NVlabs/stylegan)]
 * Large Scale GAN Training for High Fidelity Natural Image Synthesis (*2019 ICLR*) [[Paper](https://arxiv.org/pdf/1809.11096.pdf)] [[Code1](https://github.com/AaronLeong/BigGAN-pytorch)] [[Code2](https://github.com/taki0112/BigGAN-Tensorflow)]
 * Analyzing and improving the image quality of StyleGAN (*2019 arXiv*) [[Paper](https://arxiv.org/abs/1912.04958)] [[Code1](https://github.com/NVlabs/stylegan2)] [[Code2](https://github.com/rosinality/stylegan2-pytorch)]
+* One-Shot Domain Adaptation For Face Generation (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.12869.pdf)]
 
 ## Face Forgery Detection
 ***
@@ -142,6 +145,10 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2001.09598.pdf)]
 * FDFtNet: Facing Off Fake Images using Fake Detection Fine-tuning Network (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2001.01265.pdf)] [[Code](https://github.com/cutz-j/FDFtNet)]
 * Global Texture Enhancement for Fake Face Detection in the Wild (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2002.00133.pdf)]
+* Detecting Deepfakes with Metric Learning (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.08645.pdf)]
+* Fake Generated Painting Detection via Frequency Analysis (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.02467.pdf)]
+* Leveraging Frequency Analysis for Deep Fake Image Recognition (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.08685.pdf)] [[Code](https://github.com/RUB-SysSec/GANDCTAnalysis)]
+* One-Shot GAN Generated Fake Face Detection (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.08685.pdf)]
 
 ### Temporal Clue for Detection
 * Mesonet: a compact facial video forgery detection network (*2018 WIFS*) [[Paper](https://arxiv.org/pdf/1809.00888.pdf)] [[Code](https://github.com/DariusAf/MesoNet)]
@@ -153,6 +160,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Recurrent Convolutional Strategies for Face Manipulation Detection in Videos (*2019 CVPRW*) [[Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)]
 * Predicting Heart Rate Variations of Deepfake Videos using Neural ODE (*2019 ICCVW*) [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Fernandes_Predicting_Heart_Rate_Variations_of_Deepfake_Videos_using_Neural_ODE_ICCVW_2019_paper.pdf)]
 * Deepfake Video Detection through Optical Flow based CNN (*2019 ICCVW*) [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)]
+* Emotions Don't Lie: A Deepfake Detection Method using Audio-Visual Affective Cues (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.06711.pdf)]
 
 ### Generalizable Forgery Detection
 * ForensicTransfer: Weakly-supervised domain adaptation for forgery detection (*2018 arXiv*) [[Paper](https://arxiv.org/pdf/1812.02510.pdf)]
@@ -164,6 +172,8 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 ### Spoofing Forgery Detection
 * Security of Facial Forensics Models Against Adversarial Attacks (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1911.00660.pdf)]
 * Real or Fake? Spoofing State-Of-The-Art Face Synthesis Detection Systems (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1911.05351.pdf)]
+* Adversarial Perturbations Fool Deepfake Detectors (*2020 IJCNN*) [[Paper](https://arxiv.org/pdf/2003.10596.pdf)] [[Code](https://github.com/ApGa/adversarial_deepfakes)]
+* Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.01279.pdf)] [[Code](https://github.com/natanielruiz/disrupting-deepfakes)]
 
 ## Databases
 ***
@@ -182,6 +192,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Deep Learning for Deepfakes Creation and Detection (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1909.11573.pdf)]
 * DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2001.00179.pdf)]
 * Media Forensics and DeepFakes: an Overview (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2001.06564.pdf)]
+* DeepFake Detection: Current Challenges and Next Steps (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.09234.pdf)]
 
 
 ## Related Links
