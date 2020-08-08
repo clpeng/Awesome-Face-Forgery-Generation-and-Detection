@@ -100,9 +100,8 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Text-based editing of talking-head video (*2019 TOG*) [[Paper](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)]
 * FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation (*2019 arXiv*) [[Paper](https://arxiv.org/abs/1904.05729)]
 * Everybody’s Talkin’: Let Me Talk as You Want (*202001 arXiv*) [[Paper](https://arxiv.org/abs/2001.05201)]
-* Identity-Preserving Realistic Talking Face
-Generation (*202005 arXiv*) [[Paper](https://arxiv.org/pdf/2005.12318.pdf)]
-
+* Identity-Preserving Realistic Talking Face Generation (*202005 arXiv*) [[Paper](https://arxiv.org/pdf/2005.12318.pdf)]
+* Talking-head Generation with Rhythmic Head Motion (*2020 ECCV*) [[Paper](https://arxiv.org/pdf/2007.08547.pdf)] [[Code](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)]
 
 ## Target-generic Face Forgery (Representative)
 ***
@@ -170,6 +169,9 @@ Generation (*202005 arXiv*) [[Paper](https://arxiv.org/pdf/2005.12318.pdf)]
 * Manipulated Face Detector: Joint Spatial and Frequency Domain Attention Network (*202005 arXiv*) [[Paper](https://arxiv.org/pdf/2005.02958.pdf)]
 * A Face Preprocessing Approach for Improved DeepFake Detection (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07084.pdf)]
 * A Note on Deepfake Detection with Low-Resources (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.05183.pdf)]
+* Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues (*2020 ECCV*) [[Paper](https://arxiv.org/pdf/2007.09355.pdf)]
+* CNN Detection of GAN-Generated Face Images based on Cross-Band Co-occurrences Analysis (*2020 WIFS*) [[Paper](https://arxiv.org/pdf/2007.12909.pdf)]
+* Detection, Attribution and Localization of GAN Generated Images (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.10466.pdf)]
 
 
 ### Temporal Clue for Detection
@@ -193,6 +195,8 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07634.pdf)]
 * Deepfake Detection using Spatiotemporal Convolutional Networks (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.14749.pdf)]
 * Interpretable Deepfake Detection via Dynamic Prototypes (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.15473.pdf)]
+* Dynamic texture analysis for detecting fake faces in video sequences (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.15271.pdf)]
+* Detecting Deepfake Videos: An Analysis of Three Techniques (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.08517.pdf)]
 
 
 ### Generalizable Forgery Detection
