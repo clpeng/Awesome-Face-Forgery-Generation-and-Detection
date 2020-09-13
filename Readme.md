@@ -172,6 +172,9 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues (*2020 ECCV*) [[Paper](https://arxiv.org/pdf/2007.09355.pdf)]
 * CNN Detection of GAN-Generated Face Images based on Cross-Band Co-occurrences Analysis (*2020 WIFS*) [[Paper](https://arxiv.org/pdf/2007.12909.pdf)]
 * Detection, Attribution and Localization of GAN Generated Images (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.10466.pdf)]
+* Two-branch Recurrent Network for Isolating Deepfakes in Videos (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.03412.pdf)]
+* What makes fake images detectable? Understanding properties that generalize (*2020 ECCV*) [[Paper](https://arxiv.org/pdf/2008.10588.pdf)] [[Code](https://github.com/chail/patch-forensics)]
+* DeepFake Detection Based on Discrepancies Between Faces and their Context (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.12262.pdf)]
 
 
 ### Temporal Clue for Detection
@@ -197,6 +200,8 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * Interpretable Deepfake Detection via Dynamic Prototypes (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.15473.pdf)]
 * Dynamic texture analysis for detecting fake faces in video sequences (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.15271.pdf)]
 * Detecting Deepfake Videos: An Analysis of Three Techniques (*202007 arXiv*) [[Paper](https://arxiv.org/pdf/2007.08517.pdf)]
+* Sharp Multiple Instance Learning for DeepFake Video Detection (*2020 ACMMM*) [[Paper](https://arxiv.org/pdf/2008.04585.pdf)] [[Code](https://github.com/fiona-lxd/S-MIL)]
+* How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.11363.pdf)]
 
 
 ### Generalizable Forgery Detection
@@ -207,7 +212,8 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * Face X-ray for More General Face Forgery Detection (*2020 CVPR*) [[Paper](https://arxiv.org/pdf/1912.13458.pdf)]
 * Detecting CNN-Generated Facial Images in Real-World Scenarios (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Hulzebosch_Detecting_CNN-Generated_Facial_Images_in_Real-World_Scenarios_CVPRW_2020_paper.pdf)]
 * OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)]
-
+* T-GD: Transferable GAN-generated Images Detection Framework (*2020 ICML*) [[Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/3622-Paper.pdf)] [[Code](https://github.com/cutz-j/T-GD)]
+* Exposing Deep-faked Videos by Anomalous Co-motion Pattern Detection (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.04848.pdf)]
 
 ### Spoofing Forgery Detection
 * Security of Facial Forensics Models Against Adversarial Attacks (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1911.00660.pdf)]
@@ -215,13 +221,11 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * Adversarial Perturbations Fool Deepfake Detectors (*2020 IJCNN*) [[Paper](https://arxiv.org/pdf/2003.10596.pdf)] [[Code](https://github.com/ApGa/adversarial_deepfakes)]
 * Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems (*202003 arXiv*) [[Paper](https://arxiv.org/pdf/2003.01279.pdf)] [[Code](https://github.com/natanielruiz/disrupting-deepfakes)]
 * Evading Deepfake-Image Detectors with White- and Black-Box Attacks (*202004 arXiv*) [[Paper](https://arxiv.org/pdf/2004.00622.pdf)]
-* Defending against GAN-based Deepfake Attacks via
-Transformation-aware Adversarial Faces (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07421.pdf)]
-* Disrupting Deepfakes with an Adversarial Attack
-that Survives Training (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.12247.pdf)]
-* FakePolisher: Making DeepFakes More Detection-Evasive by
-Shallow Reconstruction (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07533.pdf)]
+* Defending against GAN-based Deepfake Attacks via Transformation-aware Adversarial Faces (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07421.pdf)]
+* Disrupting Deepfakes with an Adversarial Attack that Survives Training (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.12247.pdf)]
+* FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.07533.pdf)]
 * Protecting Against Image Translation Deepfakes by Leaking Universal Perturbations from Black-Box Neural Networks (*202006 arXiv*) [[Paper](https://arxiv.org/pdf/2006.06493.pdf)]
+* Not My Deepfake: Towards Plausible Deniability for Machine-Generated Media (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.09194.pdf)]
 
 
 ## Others
