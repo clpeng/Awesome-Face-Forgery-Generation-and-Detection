@@ -193,6 +193,8 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 
 * Thinking the Fusion Strategy of Multi-reference Face Reenactment (*202202 arXiv*) [[Paper](https://arxiv.org/abs/2202.10758)]
 
+* Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos (*2022 CVPR*) [[Paper](https://arxiv.org/abs/2112.00585)] [[Code](https://github.com/foivospar/NED)]
+
   
 
 
