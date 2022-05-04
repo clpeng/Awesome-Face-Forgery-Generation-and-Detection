@@ -1,6 +1,14 @@
 # Awesome Face Forgery Generation and Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of articles and codes related to face forgery generation and detection. 
 
+This collection is associated with our following survey paper (in Chinese) on face forgery generation and detection.
+
+**Deep visual identity forgery and detection** [[Paper](https://www.sciengine.com/SSI/article?doi=10.1360/SSI-2020-0064)] (**in Chinese**)
+Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li.
+SCIENTIA SINICA Informationis, 2021.
+
+
+
 ## Contributing
 ***
 
@@ -631,6 +639,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 ## Related Links
 ***
 
+* [Daisy-Zhang/Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
 * [datamllab/awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)
 * [Qingcsai/awesome-Deepfakes](https://github.com/Qingcsai/awesome-Deepfakes)
 * [drimpossible/awesome-deepfake-detection](https://github.com/drimpossible/awesome-deepfake-detection)
