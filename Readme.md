@@ -3,10 +3,8 @@ A curated list of articles and codes related to face forgery generation and dete
 
 This collection is associated with our following survey paper on face forgery generation and detection.
 
-**Deep visual identity forgery and detection** [[Paper](https://www.sciengine.com/SSI/article?doi=10.1360/SSI-2020-0064)] (**in Chinese**)
-
-Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li.
-
+**Deep visual identity forgery and detection** [[Paper](https://www.sciengine.com/SSI/article?doi=10.1360/SSI-2020-0064)] (**in Chinese**)<br>
+Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li.<br>
 SCIENTIA SINICA Informationis, 2021.
 
 
