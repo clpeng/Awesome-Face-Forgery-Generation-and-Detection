@@ -23,15 +23,16 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
     - [Face Manipulation](#face-manipulation)            
         - [Attribute Manipulation](#attribute-manipulation)            
         - [Expression Reenactment](#expression-reenactment)            
-        - [Cross-modality Driven](#cross-modality-driven)    
-- [Target-generic Face Forgery](#target-generic-face-forgery)    
+        - [Cross-modality Driven](#cross-modality-manipulation)    
+- [Target-generic Face Forgery](#target-generic-face-forgery-representative)    
 - [Face Forgery Detection](#face-forgery-detection)        
     - [Spatial Clue for Detection](#spatial-clue-for-detection)        
     - [Temporal Clue for Detection](#temporal-clue-for-detection)        
-    - [Generalizable Detection](#generalizable-forgery-detection)        
+    - [Audio+ Clue for Detection](#audio-clue-for-detection)        
+    - [Generalizable Detection](#generalizable-clue-for-detection)        
     - [Spoofing Detection](#spoofing-forgery-detection)    
 - [Databases](#databases)    
-- [Survey](#survey)    
+- [Survey](#survey--benchmark)    
 
 ## Target-specific Face Forgery
 ***
@@ -591,6 +592,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 
 
 ### Generalizable Clue for Detection
+
 * ForensicTransfer: Weakly-supervised domain adaptation for forgery detection (*2018 arXiv*) [[Paper](https://arxiv.org/pdf/1812.02510.pdf)]
 * Towards generalizable forgery detection with locality-aware autoencoder (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1909.05999.pdf)]
 * Incremental learning for the detection and classification of GAN-generated images (*2019 WIFS*) [[Paper](https://arxiv.org/pdf/1910.01568.pdf)]
