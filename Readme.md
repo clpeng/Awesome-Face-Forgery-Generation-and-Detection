@@ -579,6 +579,8 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 
 ### Audio+ Clue for Detection
 
+* Lip Sync Matters: A Novel Multimodal Forgery Detector (*APSIPA 2022*) [[Paper](https://homepage.iis.sinica.edu.tw/papers/whm/25387-F.pdf)]
+* Multimodal Forgery Detection Using Ensemble Learning (*APSIPA 2022*) [[Paper](https://homepage.iis.sinica.edu.tw/papers/whm/25388-F.pdf)]
 * Emotions Don't Lie: A Deepfake Detection Method using Audio-Visual Affective Cues (*2020 ACMMM*) [[Paper](https://arxiv.org/abs/2003.06711)]
 * Not made for each other– Audio-Visual Dissonance-based Deepfake Detection and Localization (*2020 ACMMM*) [[Paper](https://arxiv.org/pdf/2005.14405.pdf)] [[Code](https://github.com/abhinavdhall/deepfake/tree/main/ACM_MM_2020)]
 * Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors (*2021 ACMMM-W*) [[Paper](https://arxiv.org/abs/2109.02993)]
