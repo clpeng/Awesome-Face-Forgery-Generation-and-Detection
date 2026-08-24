@@ -846,3 +846,6 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 
 
 
+
+
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI forensic platform combining Vision Transformers, 2D-DCT spectral analysis, facial landmark jitter, and MAR/RMS audio-visual lip synchrony via Log-Odds Bayesian Evidentiary Fusion.
