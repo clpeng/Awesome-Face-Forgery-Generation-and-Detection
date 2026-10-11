@@ -588,6 +588,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Self-supervised Transformer for Deepfake Detection (*202203 arXiv*) [[Paper](https://arxiv.org/pdf/2203.01265v1.pdf)]
 * Audio-Visual Person-of-Interest DeepFake Detection (*202204 arXiv*) [[Paper](https://arxiv.org/abs/2204.03083)] [[Code](https://github.com/grip-unina/poi-forensics)]
 * Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization (*202204 arXiv*) [[Paper](https://arxiv.org/abs/2204.06228)]
+* PVSync: A Unified Lip-Sync Expert for Timing and Articulation (*202610 arXiv*) [[Paper](https://arxiv.org/abs/2610.09223)]
 
 
 
